@@ -5,77 +5,77 @@ members:
         name: Amanda Ewen
         position: President
         url: '#'
-        image: img-team-1.jpg
+        image: amanda.jpg
 
     -
         name: Ruan Erasmus
         position: Vice President
         url: '#'
-        image: img-team-2.jpg
+        image: ruan.jpg
 
     -
         name: Karen Shruti
         position: Treasurer
         url: '#'
-        image: img-team-3.jpg
+        image: karen.jpg
 
     -
         name: Nate Dolny
         position: Office Manager
         url: '#'
-        image: img-team-5.jpg
+        image: nate.jpg
 
     -
         name: Gabrielle Dela Cruz
         position: Student Outreach Manager
         url: '#'
-        image: img-team-4.jpg
+        image: gabby.jpg
 
     -
         name: Kamal Zrein
         position: Corporate Outreach Manager
         url: '#'
-        image: img-team-6.jpg
+        image: kamal.jpg
 
     -
         name: Carter Zimmerman
         position: Event Director
         url: '#'
-        image: img-team-4.jpg
+        image: carter.jpg
 
     -
         name: Princess Tayab
         position: Athletic Director
         url: '#'
-        image: img-team-5.jpg
+        image: princess.jpg
 
     -
         name: Kate Wright
         position: Art Director
         url: '#'
-        image: img-team-3.jpg
+        image: kate.jpg
 
     -
         name: Hanz Tolentino
         position: Lower Year Representative
         url: '#'
-        image: img-team-1.jpg
+        image: hanz.jpg
 
     -
         name: Aesha Patel
         position: Upper Year Representative
         url: '#'
-        image: img-team-6.jpg
+        image: aesha.jpg
 
     -
         name: Long Quan Nguyen
         position: Member at Large
         url: '#'
-        image: img-team-5.jpg
+        image: tony.jpg
 
     -
         name: Chris Baker
         position: Member at Large
         url: '#'
-        image: img-team-2.jpg
+        image: chris.jpg
 ---
