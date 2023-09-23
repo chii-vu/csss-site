@@ -1,39 +1,81 @@
 ---
-title: Our Team
+title: Meet the Execs
 members:
     -
-        name: Reena Scot
-        position: Director
+        name: Amanda Ewen
+        position: President
         url: '#'
-        image: img-team-1.jpg
+        image: amanda.jpg
 
     -
-        name: David Martin
-        position: Founder
+        name: Ruan Erasmus
+        position: Vice President
         url: '#'
-        image: img-team-2.jpg
+        image: ruan.jpg
 
     -
-        name: Jenefir White
-        position: Marketing
+        name: Karen Shruti
+        position: Treasurer
         url: '#'
-        image: img-team-3.jpg
+        image: karen.jpg
 
     -
-        name: Reena Scot
-        position: Director
+        name: Nate Dolny
+        position: Office Manager
         url: '#'
-        image: img-team-4.jpg
+        image: nate.jpg
 
     -
-        name: David Martin
-        position: Founder
+        name: Gabrielle Dela Cruz
+        position: Student Outreach Manager
         url: '#'
-        image: img-team-5.jpg
+        image: gabby.jpg
 
     -
-        name: Jenefir White
-        position: Marketing
+        name: Kamal Zrein
+        position: Corporate Outreach Manager
         url: '#'
-        image: img-team-6.jpg
+        image: kamal.jpg
+
+    -
+        name: Carter Zimmerman
+        position: Event Director
+        url: '#'
+        image: carter.jpg
+
+    -
+        name: Princess Tayab
+        position: Athletic Director
+        url: '#'
+        image: princess.jpg
+
+    -
+        name: Kate Wright
+        position: Art Director
+        url: '#'
+        image: kate.jpg
+
+    -
+        name: Hanz Tolentino
+        position: Lower Year Representative
+        url: '#'
+        image: hanz.jpg
+
+    -
+        name: Aesha Patel
+        position: Upper Year Representative
+        url: '#'
+        image: aesha.jpg
+
+    -
+        name: Long Quan Nguyen
+        position: Member at Large
+        url: '#'
+        image: tony.jpg
+
+    -
+        name: Chris Baker
+        position: Member at Large
+        url: '#'
+        image: chris.jpg
 ---
