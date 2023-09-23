@@ -2,20 +2,20 @@
 title: Carousel
 slides:
     -
-        heading: It's simple, smart and occasionally magical.
-        description: Intrinsicly negotiate corporate synergy rather than user-centric web services. Synergistically<br>transition emerging schemas and.
+        heading: Welcome to the Computer Science Student Society!
+        description: We're a group ran by students, for students.
         background_image: hero-slide-1.jpg
-        background_image_description: It's simple, smart and occasionally magical.
+        background_image_description: Welcome
 
     -
-        heading: It's profitable and successful!
-        description: Synergistically enhance low-risk high-yield testing procedures with clicks-and-mortar architectures.<br>Compellingly revolutionize future-proof interfaces and.
+        heading: Our Purpose
+        description: To connect students with each other and build a sense of community.
         background_image: hero-slide-2.jpg
-        background_image_description: It's profitable and successful!
+        background_image_description: Purpose
 
     -
-        heading: Good solutions for your business!
-        description: Monotonectally envisioneer 24/7 bandwidth with reliable imperatives. Continually unleash unique<br>niches after go forward.
+        heading: Join Us!
+        description: We're always looking for new members to join our team. Membership is free!
         background_image: hero-slide-3.jpg
-        background_image_description: Good solutions for your business!
+        background_image_description: Join us.
 ---
