@@ -1,5 +1,5 @@
 ---
-title: X-Corporation
+title: CSSS
 menu: Home
 shown_in_footer: true
 content:

@@ -1,0 +1,21 @@
+state: enabled
+email: csss@cs.usask.ca
+fullname: CSSS
+title: 'Student Group'
+hashed_password: $2y$10$0VRRNs9fuZIGXEzEQYsfE.7/jaowFu/B5lO3HmEH9Frqq5YjuuqWS
+language: en
+content_editor: default
+twofa_enabled: false
+twofa_secret: 2Q4UEJJTKHSIMRSVDY5MD6SDQYVNSIEE
+avatar:
+  user/accounts/avatars/h9tfr741cpexfzn.png:
+    name: h9tfr741cpexfzn.png
+    type: image/png
+    size: 221847
+    path: user/accounts/avatars/h9tfr741cpexfzn.png
+access:
+  site:
+    login: true
+  admin:
+    login: true
+    super: true
