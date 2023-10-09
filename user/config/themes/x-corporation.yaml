@@ -14,9 +14,10 @@ footer_icons:
     url: 'https://ca.linkedin.com/company/computer-science-student-society'
 footer_blocks:
   -
+    title: null
     content: 'Continually matrix cross functional opportunities whereas ethical information. Compellingly streamline enabled human capital before resource-leveling internal or "organic".'
-    icons: false
     logo: true
+    icons: false
   -
     title: 'We work for your profit'
     content: 'Distinctively expedite viral materials rather than out-of-the-box solutions. Credibly empower revolutionary ROI rather than unique products. Collaboratively maximize principle-centered ideas before highly efficient data. Phosfluorescently.'
@@ -24,7 +25,16 @@ footer_blocks:
     icons: false
   -
     title: 'Join Us'
-    content: "Call Us 666 777 888 OR 111 222 333\r\n\r\nSend an Email on <a href=\"mailto:#\">contact@domain.com</a>\r\n\r\nVisit Us 123 Fake Street- Blla 12358\r\nFake Kingdom"
+    content: "Call Us 666 777 888 OR 111 222 333\n\nSend an Email on <a href=\"mailto:#\">contact@domain.com</a>\n\nVisit Us 123 Fake Street- Blla 12358\nFake Kingdom"
     logo: false
-    copyright: 'Copyright &copy; 2016 | X-Corporation Designed And Developed By: <a href="http://www.uicookies.com">uiCookies</a>'
     icons: true
+copyright: null
+google_maps_api_key: null
+favicon:
+  user/themes/x-corporation/img/csss_logo.png:
+    name: csss_logo.png
+    full_path: csss_logo.png
+    type: image/png
+    size: 221847
+    path: user/themes/x-corporation/img/csss_logo.png
+logo: {  }

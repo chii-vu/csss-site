@@ -1,4 +1,4 @@
-# ![](https://avatars1.githubusercontent.com/u/8237355?v=2&s=50) Grav
+# <img src="./CSSS_GIF.gif" alt="CSSS Website" width="30" /> CSSS Website
 
 This is the wesbite for the Computer Science Student's Society at the University of Saskatchewan. It is built using the [Grav CMS](https://getgrav.org/). The full documentation can be found from [learn.getgrav.org](https://learn.getgrav.org).
 
