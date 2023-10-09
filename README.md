@@ -9,6 +9,9 @@ This is the wesbite for the Computer Science Student's Society at the University
 
 # Set Up
 
+https://github.com/chii-vu/csss-site/assets/115325256/75cba7b4-3259-4bb8-b27d-93992b0bcfde
+
+
 Get the site up and running:
 
 ### Clone the repository
