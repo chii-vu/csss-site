@@ -15,13 +15,15 @@ jQuery(function ($) {
     // ------------------------------------------------------------------
     // sticky menu
     // ------------------------------------------------------------------
-	$(window).scroll(function() {
-	    if ($(".navbar").offset().top > 50) {
-	        $(".navbar-fixed-top").addClass("sticky-nav");
-	    } else {
-	        $(".navbar-fixed-top").removeClass("sticky-nav");
-	    }
-	});
+    $(window).scroll(function() {
+        if ($(".navbar").offset().top > 50) {
+            $(".navbar-fixed-top").addClass("sticky-nav");
+            $(".navbar-fixed-top .navbar-brand img").css('max-height', '50px');
+        } else {
+            $(".navbar-fixed-top").removeClass("sticky-nav");
+            $(".navbar-fixed-top .navbar-brand img").css('max-height', '400px');
+        }
+    });
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: CSSS
+title: Computer Science Student Society
 menu: Home
 shown_in_footer: true
 content:

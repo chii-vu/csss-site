@@ -479,6 +479,11 @@ Shortcode Content
     margin-top : 14px !important;
     }
 
+.sticky-nav .navbar-brand img {
+    max-height: 300px;
+    transition: max-height 0.3s;
+}
+
 .dropdown-header {
     font-size      : 11px;
     line-height    : 30px;
